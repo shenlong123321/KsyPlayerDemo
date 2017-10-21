@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">金山视频云播放SDK</string>
+    <string name="company_name">北京金山云网络技术有限公司</string>
+    <string name="open_app">开启播放器</string>
+    <string name="app_desp">提供更专业可靠的直点播服务</string>
+    <string name="change_to_old_version">切回旧版</string>
+    <string name="vod">点播</string>
+    <string name="live">直播</string>
+</resources>

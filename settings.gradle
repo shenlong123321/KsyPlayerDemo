@@ -1,0 +1,1 @@
+include ':oldplayerdemo', ':playerlib', ':app', ':newplayerdemo'
